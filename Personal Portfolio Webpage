@@ -8,6 +8,13 @@
     <section id="welcome-section">
         <h1>THis is my portfolio.</h1>
     </section>
+    <section id="projects">
+        <div class="project-tile">
+            
+        </div>
+    </section>
+
+
 </head>
 <body>
     
