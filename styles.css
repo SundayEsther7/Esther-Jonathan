@@ -4,6 +4,9 @@ body{
 h1{
     position: fixed;
     color: blue;
+    top: 10;
+  left: 200;
+  width: 100%;
 }
 
 .nav-bar{
