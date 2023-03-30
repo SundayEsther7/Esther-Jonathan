@@ -10,8 +10,10 @@
     </section>
     <section id="projects">
         <div class="project-tile">
-            
+            <h3>This is our collection.</h3>
+            <a href=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLfJMI2pcexvwW6o1k_dS7C7D8oFmfrKTeg&usqp=CAU>
         </div>
+        <nav id="nav-bar"></nav>
     </section>
 
 
