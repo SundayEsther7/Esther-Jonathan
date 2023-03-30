@@ -18,12 +18,19 @@
         <nav id="nav-bar">
             <a href="#fatest cars">Fatest cars</a>
             <a href="https://github.com/sinruidotec" target="_blank">Jonathan</a>
+            <ul>
+                <li><a href="#biggest car">Biggest car</a></li>
+                <li><a href="#smallest">Smallest car</a></li>
+                <li><a href="#slowest">Slowest car</a></li>
+            </ul>
         </nav>
     </section>
 
 
 </head>
 <body>
-    
+    <footer>
+        <small>Developed and designed by Esther and Jonathan . &copy;2021. All rights reserved.</small>
+    </footer>
 </body>
 </html>
